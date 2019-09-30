@@ -11,7 +11,7 @@ The identification of the subjects with whom the study was conducted are detaile
 
 ## Activities evaluated
 
-*1.- `WALKING`
+* 1.- `WALKING`
 * 2.- `WALKING_UPSTAIRS`
 * 3.- `WALKING_DOWNSTAIRS`
 * 4.- `SITTING`
